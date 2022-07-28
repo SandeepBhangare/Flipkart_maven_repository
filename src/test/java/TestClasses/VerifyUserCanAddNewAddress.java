@@ -34,7 +34,9 @@ public class VerifyUserCanAddNewAddress {
 	
 	
 	ExtentHtmlReporter ExtentReporter;
+	
 	ExtentReports report;
+	
 	ExtentTest test;
 	
 	@BeforeClass
